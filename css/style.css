@@ -5,22 +5,23 @@
 	margin-right: auto;
 	/*border:3px solid white;*/
 	width: 400px;
-	height:280px;
+	height:350px;
 	margin-top: 160px;
 	position:relative;
 	background-image: url('../img/logo.svg');
 	background-repeat: no-repeat;
 	background-position: top;
-	background-size: 40%;
+	background-size: 50%;
 }
 
-h2 {
+h1 {
 	text-align: center;
-	padding-top: 40%;
+	padding-top:55%;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	color: white;
 	line-height:2rem;
+	font-size:2rem;
 }
 
 h3 {
@@ -28,8 +29,10 @@ h3 {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color: white;
-	margin-top: -10px;
+	margin-top: 0px;
 		letter-spacing: 2px;
+		line-height:2.5rem;
+	font-size:1.5rem;
 }
 
 

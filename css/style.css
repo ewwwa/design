@@ -11,12 +11,12 @@
 	background-image: url('../img/logo.svg');
 	background-repeat: no-repeat;
 	background-position: top;
-	background-size: 40%;
+	background-size: 220px;
 }
 
 h2 {
 	text-align: center;
-	padding-top: 40%;
+	padding-top: 220px;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 100;
 	color: white;

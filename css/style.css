@@ -4,7 +4,6 @@
 	margin-left: auto;
 	margin-right: auto;
 	/*border:3px solid white;*/
-	width: 400px;
 	height:350px;
 	margin-top: 140px;
 	position:relative;
@@ -16,7 +15,6 @@
 
 h1 {
 	text-align: center;
-	padding-top:55%;
 	line-height:2.5rem;
 	font-size: 3rem;
 	padding-top: 220px;
@@ -62,6 +60,7 @@ h3 {
 
 .button {
 	position: relative;
+		margin-top:20px;
 	padding: 0.8em;
 	border: 1px solid #FFF;
 	overflow: hidden;
